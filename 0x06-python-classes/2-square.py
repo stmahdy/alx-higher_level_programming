@@ -1,4 +1,8 @@
 #!/usr/bin/python3
+"""Example Google style docstrings.
+
+This module demonstrates documentation as specified """
+
 class Square:
     """Defines a square"""
     def __init__(self, size=0):
