@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+"""Defining loqd from json file"""
+
 
 import json
 
