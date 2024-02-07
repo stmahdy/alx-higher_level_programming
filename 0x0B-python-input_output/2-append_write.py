@@ -1,4 +1,7 @@
 #!/usr/bin/python3
+"""defining from json_to_string"""
+
+
 def append_write(filename="", text=""):
     """ function that appends a string returns the number of characters """
 
